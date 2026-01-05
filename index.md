@@ -1,6 +1,9 @@
 ---
 title: Home
 ---
+<div style = "text-align:center;">
+	<img src = "assets/images/me.JPG" alt="Me">
+</div>
 
 # My Posts
 
