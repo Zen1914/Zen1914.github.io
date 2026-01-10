@@ -15,3 +15,5 @@ title: Home
 
 ### [Counter](https://github.com/Shrimp-coder17/Counter.git)
 ### [GameState](https://github.com/Zen1914/GameState.git)
+### [Parallax](https://github.com/Zen1914/Parallax.git)
+### [Timer](https://github.com/Zen1914/Timer.git)
